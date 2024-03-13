@@ -1,0 +1,7 @@
+template-file-path: ./server-provision.yml
+
+paramaters:
+
+tags:
+    cost-center: '122445566'
+    org: 'AWS'
